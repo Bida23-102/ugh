@@ -36,9 +36,9 @@
 }
 
 ul{
-  float: left;
+  float: right;
   display: flex;
-  justify-content:center;
+  justify-content:right;
   align-items:center;
 }
 
@@ -62,8 +62,8 @@ ul li a:hover{
 }
 .search{
   width:330px;
-  float:left;
-  margin-left:270px;
+  float:right;
+  margin-right:270px;
 }
 
 .srch{
