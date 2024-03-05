@@ -57,3 +57,28 @@ ul li a{
 ul li a:hover{
   color: purple;
 }
+
+.button {
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 14px;
+  margin: 6px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  
+}
+
+.button li a{
+  background-color: white; 
+  color: black; 
+  border: 2px solid purple;
+}
+
+.button li a:hover {
+  background-color:purple;
+  color: white;
+}
