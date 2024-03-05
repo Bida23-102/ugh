@@ -22,6 +22,7 @@
   padding-left:20px;
   float: left;
   padding-top: 20px;
+  
 }
 
 .menu{
@@ -35,6 +36,7 @@ ul{
   display: flex;
   justify-content:center;
   align-items:center;
+  justify-content:flex-start;
 }
 
 ul li{
